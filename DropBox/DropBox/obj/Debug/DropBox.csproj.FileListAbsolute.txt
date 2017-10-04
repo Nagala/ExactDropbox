@@ -65,3 +65,6 @@ C:\Users\Lokesh\documents\visual studio 2012\Projects\DropBox\DropBox\bin\Debug\
 C:\Users\Lokesh\documents\visual studio 2012\Projects\DropBox\DropBox\bin\Debug\DotNetOpenAuth.OAuth2.Client.xml
 C:\Users\Lokesh\documents\visual studio 2012\Projects\DropBox\DropBox\bin\Debug\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
 C:\Users\Lokesh\documents\visual studio 2012\Projects\DropBox\DropBox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gouthami\GitRepo\DropBox\DropBox\bin\Debug\DropBox.exe.config
+C:\Users\Gouthami\GitRepo\DropBox\DropBox\obj\Debug\DropBox.exe
+C:\Users\Gouthami\GitRepo\DropBox\DropBox\obj\Debug\DropBox.pdb
